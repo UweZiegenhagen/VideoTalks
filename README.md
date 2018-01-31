@@ -1,5 +1,5 @@
 # Video Talks
-A few links to some of my talks, held at various occasions. See [https://github.com/UweZiegenhagen/TalksAndArticles](https://github.com/UweZiegenhagen/TalksAndArticles "https://github.com/UweZiegenhagen/TalksAndArticles") for more talks...
+A few links to some of my talks, held at various occasions. See [https://github.com/UweZiegenhagen/TalksAndArticles](https://github.com/UweZiegenhagen/TalksAndArticles "https://github.com/UweZiegenhagen/TalksAndArticles") for more of my talks w/o video...
 
 
 **2016**
