@@ -15,6 +15,11 @@ A few links to some of my talks, held at various occasions. See [https://github.
 
 * "LaTeX für Studenten (FrOSCon 2014, St. Augustin)", [https://www.youtube.com/watch?v=eE05tBAS7us](https://www.youtube.com/watch?v=eE05tBAS7us "LaTeX für Studenten (FrOSCon 2014, St. Augustin)")
 
+
+**2012**
+
+* "Mikroelektronik für Nicht-Informatiker (FrOSCon 2012, St. Augustin) [https://media.ccc.de/v/froscon2012-925-arduino_mikrocontroller](https://media.ccc.de/v/froscon2012-925-arduino_mikrocontroller "Mikroelektronik für Nicht-Informatiker (FrOSCon 2012, St. Augustin)")
+
 **2010**
 
 * "Dynamic reporting with R/Sweave and LaTeX" (TUG 2010, San Francisco), [https://www.youtube.com/watch?v=jhj_97SNl7Y](https://www.youtube.com/watch?v=jhj_97SNl7Y "Dynamic reporting with R/Sweave and LaTeX")
