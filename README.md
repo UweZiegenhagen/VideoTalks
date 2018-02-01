@@ -1,4 +1,5 @@
 # Video Talks
+
 A few links to some of my talks, held at various occasions. See [https://github.com/UweZiegenhagen/TalksAndArticles](https://github.com/UweZiegenhagen/TalksAndArticles "https://github.com/UweZiegenhagen/TalksAndArticles") for more of my talks w/o video...
 
 
@@ -14,6 +15,11 @@ A few links to some of my talks, held at various occasions. See [https://github.
 **2014**
 
 * "LaTeX für Studenten (FrOSCon 2014, St. Augustin)", [https://www.youtube.com/watch?v=eE05tBAS7us](https://www.youtube.com/watch?v=eE05tBAS7us "LaTeX für Studenten (FrOSCon 2014, St. Augustin)")
+
+
+**2013**
+
+* "Python und LaTeX vereint (FrOSCon 2013, St. Augustin)" [https://media.ccc.de/v/c119_hauptkonferenz_-_2013-08-25_12:45_-_python_und_latex_vereint_-_uwe_ziegenhagen_-_1157](https://media.ccc.de/v/c119_hauptkonferenz_-_2013-08-25_12:45_-_python_und_latex_vereint_-_uwe_ziegenhagen_-_1157 "Python und LaTeX vereint (FrOSCon 2013, St. Augustin)")
 
 
 **2012**
